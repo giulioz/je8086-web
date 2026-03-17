@@ -1,0 +1,9 @@
+[submodule "cpp/asmjit"]
+	path = cpp/asmjit
+	url = https://github.com/asmjit/asmjit.git
+[submodule "cpp/SDL"]
+	path = cpp/SDL
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "cpp/binaryen"]
+	path = cpp/binaryen
+	url = https://github.com/WebAssembly/binaryen.git
